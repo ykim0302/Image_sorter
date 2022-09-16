@@ -3,6 +3,7 @@ from PIL import Image
 import datetime
 import shutil
 
+# The location of the files that you want to sort
 source = 'C:/Users/kimye/Desktop/Coding/Python/Image_sorting_algorithm/123/'
 destination = 'C:/Users/kimye/Desktop/Coding/Python/Image_sorting_algorithm/des/'
 count = 0 
