@@ -13,7 +13,7 @@ The reason I wrote this code:
   
   But the built-in function in the File Explorer was not very accurate. Some images had different "taken time" and "created time" and some of them did not have "taken     time". They got all mixed up everytime I try to sort them using the File Explorer.
   
-  At that time, I renamed them all one by one by putting in 8 digit dates in front of the file name using my memories, and some date datas provided.
+  At that time, I renamed all of them one by one by putting in 8 digit dates in front of the file name using my memories, and some date datas provided.
   This took me about 3 to 4 hours by hand.
   
   
